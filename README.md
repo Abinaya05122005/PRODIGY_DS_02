@@ -1,4 +1,4 @@
-# Titanic Dataset - EDA Project
+# TASK-02  Titanic Dataset - EDA Project
 
 ## 📌 Objective
 Perform data cleaning and exploratory data analysis (EDA) on Titanic dataset to find patterns and insights.
@@ -31,4 +31,4 @@ Titanic dataset from Kaggle
 3. Visualizations will appear automatically
 
 ## 👩‍💻 Author
-Your Name
+Abinaya R
